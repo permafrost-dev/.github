@@ -14,6 +14,14 @@ Here are some of our other open source highlights:
 
 - [php-code-search](https://github.com/permafrost-dev/php-code-search)
 - [coverage-check](https://github.com/permafrost-dev/coverage-check)
+- [codeboost](https://github.com/permafrost-dev/codeboost)
 - [stackup](https://github.com/permafrost-dev/stackup)
+
+And a few popular project templates:
+
+- [typescript/esbuild project template](https://github.com/permafrost-dev/typescript-project-skeleton-esbuild-jest)
+- [typescript/rollup project template](https://github.com/permafrost-dev/vite-vue-tailwind-ts-electron-skeleton)
+- [typescript/vite/electron project template](https://github.com/permafrost-dev/vite-vue-tailwind-ts-electron-skeleton)
+- [go project template](https://github.com/permafrost-dev/go-project-template)
 
 You can help with our open source efforts in many ways: by [resolving open issues](https://github.com/issues?q=is%3Aopen+is%3Aissue+user%3Apermafrost-dev+is%3Apublic+label%3A%22good+first+issue%22) or by sponsoring our open source work [via GitHub Sponsors](https://github.com/sponsors/ppermafrost-dev).
