@@ -1,22 +1,19 @@
 <p align="center"><a href="https://permafrost.dev" target="_blank"><img src="https://github.com/permafrost-dev/.github/blob/main/assets/images/logo-full.png?raw=true" width="400"></a></p>
 
-## About Permafrost Software
+[Permafrost Software](https://permafrost.dev) crafts web applications & open source packages in the PHP and NPM ecosystems.
 
-[Permafrost](https://permafrost.dev) crafts web applications & open source packages in the PHP and NPM ecosystems.
+We write and maintain several official integrations and packages for Spatie's Ray app:
 
-We wrote and maintain several official integrations and packages for Spatie's Ray app:
-
-- [node-ray](https://github.com/permafrost-dev/node-ray)
-- [vue-ray](https://github.com/permafrost-dev/vue-ray)
-- [react-ray](https://github.com/permafrost-dev/react-ray)
-- [x-ray](https://github.com/spatie/x-ray)
+- [x-ray](https://github.com/spatie/x-ray) _(PHP)_
+- [node-ray](https://github.com/permafrost-dev/node-ray) _(npm)_
+- [vue-ray](https://github.com/permafrost-dev/vue-ray) _(npm)_
+- [react-ray](https://github.com/permafrost-dev/react-ray) _(npm)_
 
 Here are some of our other open source highlights:
 
+- [stackup](https://github.com/permafrost-dev/stackup)
 - [php-code-search](https://github.com/permafrost-dev/php-code-search)
 - [coverage-check](https://github.com/permafrost-dev/coverage-check)
-- [codeboost](https://github.com/permafrost-dev/codeboost)
-- [stackup](https://github.com/permafrost-dev/stackup)
 
 And a few popular project templates:
 
