@@ -4,11 +4,12 @@
 
 [Permafrost](https://permafrost.dev) crafts web applications & open source packages in the PHP and NPM ecosystems.
 
-We're the maintainers of several official integrations for Spatie's Ray app:
+We wrote and maintain several official integrations and packages for Spatie's Ray app:
 
 - [node-ray](https://github.com/permafrost-dev/node-ray)
 - [vue-ray](https://github.com/permafrost-dev/vue-ray)
 - [react-ray](https://github.com/permafrost-dev/react-ray)
+- [x-ray](https://github.com/spatie/x-ray)
 
 Here are some of our other open source highlights:
 
@@ -19,9 +20,9 @@ Here are some of our other open source highlights:
 
 And a few popular project templates:
 
+- [project-skeleton-typescript-vite-jest](https://github.com/permafrost-dev/project-skeleton-typescript-vite-jest)
 - [typescript/esbuild project template](https://github.com/permafrost-dev/typescript-project-skeleton-esbuild-jest)
 - [typescript/rollup project template](https://github.com/permafrost-dev/vite-vue-tailwind-ts-electron-skeleton)
-- [typescript/vite/electron project template](https://github.com/permafrost-dev/vite-vue-tailwind-ts-electron-skeleton)
 - [go project template](https://github.com/permafrost-dev/go-project-template)
 
 You can help with our open source efforts in many ways: by [resolving open issues](https://github.com/issues?q=is%3Aopen+is%3Aissue+user%3Apermafrost-dev+is%3Apublic+label%3A%22good+first+issue%22) or by sponsoring our open source work [via GitHub Sponsors](https://github.com/sponsors/ppermafrost-dev).
